@@ -1,7 +1,14 @@
-# proyectoCine
-hola buenas, este proyecto se trata de la gestión de asientos en un cine
-Las clases que se utilizaran son:
----Java
-	Cliente
-	GestorDeReserva 
+# proyectoCine 
+Este es mi proyecto de *Java* referente al **Gestor de Simulación de un Cine**. 
+Las clases que lo componen son las siguientes: 
+- Cliente.java 
+- Cine.java 
+- GestorDePagos.java 
+- Visualizador.java 
+- ProcesadorDePagos.java 
+- Main.java 
+~~~Java 
+import 
+~~~ 
+
 
