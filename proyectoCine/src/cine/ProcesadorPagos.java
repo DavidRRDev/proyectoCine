@@ -16,10 +16,7 @@ public class ProcesadorPagos {
 		this.cine = cine;
 	}
 	public void procesarPago(String cuentaCliente, int fondosCliente){
-		
-		cuentaCliente
-		
-		cine.agregarRecaudacion();=cine.
+			
 	}
 	
 }
