@@ -6,9 +6,11 @@ Las clases que lo componen son las siguientes:
 - GestorDePagos.java 
 - Visualizador.java 
 - ProcesadorDePagos.java 
-- Main.java 
+- Main.java
+https://github.com/DavidRRDev/proyectoCine 
 ~~~Java 
 import 
 ~~~ 
+
 
 
